@@ -3,4 +3,5 @@ import datetime
 
 
 print ("First jenkins automation project")
+print ("automation")
 
