@@ -2,7 +2,7 @@ import os
 import datetime
 
 
-print ("First jenkins automation project")
+print ("First jenkins automation project"
 print "automation")
 print ()
 
