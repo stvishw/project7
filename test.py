@@ -3,7 +3,7 @@ import datetime
 
 
 print ("First jenkins automation project"
-print "automation")
+print "automation")\
 print ()
 
 #sudo docker cp 6e69cbf2086d://var/jenkins_home/workspace/Job-git/*  ~/Desktop/geeksforgeeks.txt
